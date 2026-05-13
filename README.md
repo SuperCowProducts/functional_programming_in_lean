@@ -4,4 +4,5 @@ This repository is part of the build and release process for the in-progress onl
 
 # PDF version
 
-- for instructions to reproduce see: https://github.com/danburzo/percollate/pull/63#issuecomment-4444628536
+Download: [Functional Programming in Lean.pdf](https://github.com/user-attachments/files/27732846/Functional.Programming.in.Lean.pdf)
+Instructions: https://github.com/danburzo/percollate/pull/63#issuecomment-4444628536
